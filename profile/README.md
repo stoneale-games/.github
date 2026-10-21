@@ -20,11 +20,13 @@ Stoneale makes emotional well-being fun. Players unwind with short, science-back
 |---|---|
 | [**Frontend**](https://github.com/stoneale-games/Frontend) | React, Vite and TypeScript web app with Freighter wallet connect, the Stellar wallet page and the games |
 | [**stoneale-contracts**](https://github.com/stoneale-games/stoneale-contracts) | Soroban smart contracts: `stone-rewards` and `wellness-badges`, live on testnet |
+| [**stoneale-sdk**](https://github.com/stoneale-games/stoneale-sdk) | TypeScript SDK: typed contract clients, read helpers and server-side `awardStone` |
+| [**Contract-Deployment**](https://github.com/stoneale-games/Contract-Deployment) | One-command testnet deploys, smoke tests, key rotation and badge metadata |
 
 ## Roadmap
 
 - [x] **Phase 1, Stellar foundations:** Freighter connect, STONE rewards and badge contracts on testnet, CI
-- [ ] **Phase 2, Stellar-native accounts:** sign in with Stellar, game server signs reward calls, retire the EVM stack
+- [ ] **Phase 2, Stellar-native accounts:** ~~sign in with Stellar~~ and ~~game server signs reward calls~~ (built, awaiting backend deploy), retire the EVM stack
 - [ ] **Phase 3, wellness games:** breathing, mood check-in and journaling games that pay STONE, plus a badge gallery
 - [ ] **Phase 4, player-owned data:** opt-in, encrypted progress proofs players can share with therapists
 - [ ] **Phase 5, impact ledger and mainnet:** anonymised on-chain impact metrics, a security audit and mainnet launch
