@@ -15,7 +15,7 @@ The contracts have **not been audited yet** and are deployed on **testnet only**
 
 **Please do not open a public issue for security problems.**
 
-Report vulnerabilities privately through the contact details at [stoneale.com](https://stoneale.com). Include:
+Report vulnerabilities privately by email to **[security@stoneale.com](mailto:security@stoneale.com)**. Include:
 
 - the affected repository, contract or page
 - the steps to reproduce, or a proof of concept

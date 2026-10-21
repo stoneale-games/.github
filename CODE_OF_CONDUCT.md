@@ -24,4 +24,4 @@ In short, we pledge to make participation a harassment-free experience for every
 
 ## Enforcement
 
-Report incidents privately to the maintainers through the contact details at [stoneale.com](https://stoneale.com). All reports will be reviewed promptly and kept confidential. Maintainers may remove comments, close pull requests, or ban contributors who violate this Code of Conduct, following the [Contributor Covenant enforcement guidelines](https://www.contributor-covenant.org/version/2/1/code_of_conduct/#enforcement-guidelines).
+Report incidents privately to the maintainers at **[security@stoneale.com](mailto:security@stoneale.com)**. All reports will be reviewed promptly and kept confidential. Maintainers may remove comments, close pull requests, or ban contributors who violate this Code of Conduct, following the [Contributor Covenant enforcement guidelines](https://www.contributor-covenant.org/version/2/1/code_of_conduct/#enforcement-guidelines).
